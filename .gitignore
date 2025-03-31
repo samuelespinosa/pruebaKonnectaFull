@@ -1,0 +1,7 @@
+/back/dist
+/back/node_modules
+/back/build
+
+/front/dist
+/front/node_modules
+/front/build
