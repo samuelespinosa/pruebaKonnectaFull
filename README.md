@@ -3,7 +3,7 @@
 ## Imágenes del Programa
 
 Puedes ver las imágenes del programa en el siguiente enlace:
-[Ver Imágenes](https://drive.google.com/file/d/1oShbZ_rpsAewsApctX6UElkwOTl7cogc/view?usp=sharing)
+[Ver Imágenes](https://drive.google.com/drive/folders/1ffWSOnJLl_zvTM32pRdjqi0KcJRBdCk1?usp=sharing)
 
 ---
 
