@@ -11,7 +11,7 @@ Puedes ver las imágenes del programa en el siguiente enlace:
 
 ### Backend
 
-Para ejecutar el backend, sigue estos pasos:
+En la carpeta de back ejecutar 
 
 1. **Iniciar los db con Docker:**
 
@@ -34,14 +34,19 @@ Para ejecutar el backend, sigue estos pasos:
 
 
 ### Frontend
+En la carpeta de front ejecutar 
 
-Para iniciar el frontend, usa el siguiente comando:
+1. **Instalar dependencias:**
 
-```sh
-npm run dev
-```
+   ```sh
+   npm install
+   ```
+  
+2. **Iniciar el servidor en modo desarrollo:**
 
----
+   ```sh
+   npm run dev
+   ```
 
 ## Uso de la Aplicación
 
